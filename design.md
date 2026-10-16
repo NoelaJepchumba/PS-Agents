@@ -24,5 +24,5 @@ Total path cost 2-> 92.8 + 71.1 + 191 = 354.9 km
 Nairobi → Naivasha → Nakuru → Kericho → Kisumu is the optimal cost while Nairobi → Naivasha → Nakuru  → Kisumu is the optimal path
 
 4. Group-work photo
-![Group work photo](./group_work.png)
+![Group work photo](./group_work.jpeg)
 
